@@ -5,7 +5,7 @@ Closes #
 
 ### How was it fixed?
 
-### Todo:
+### To do:
 
 - [ ] Clean up commit history
 - [ ] Add or update documentation related to these changes
