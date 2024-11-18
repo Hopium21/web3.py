@@ -48,9 +48,9 @@ Has three other methods:
 Provider
 On initialisation, is started in a separate thread.
 Continuously fetches incoming requests from a queue
-and appends the responses to another queue. Providers
+and appends the responses to another queue. Provider
 only receives and returns "raw" requests, JSON validation
-and decoding happens in the Request Manager.
+and decoding happen in the Request Manager.
 
 ```
 As of now there are two implementations:
